@@ -1,5 +1,5 @@
 <h1 align="center">Sazzad Hossain</h1>
-<h3 align="center">IT Support Specialist · Ottawa, Canada</h3>
+<h3 align="center">IT Specialist </h3>
 
 <p align="center">
   <a href="https://sazzadhossaina.github.io">Portfolio</a> · <a href="https://www.linkedin.com/in/sazzadhossain125/">LinkedIn</a> · <a href="https://github.com/sazzadhossaina">GitHub</a>
