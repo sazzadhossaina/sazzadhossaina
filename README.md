@@ -17,7 +17,7 @@ IT professional with experience in user support, team leadership and published r
 
 **Currently:** studying for Microsoft Azure Fundamentals (AZ-900) and CompTIA A+.
 
-**Looking for:** Service Desk, Desktop Support and Systems Analyst roles in Ottawa or remote.
+
 
 ---
 
